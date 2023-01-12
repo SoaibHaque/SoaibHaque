@@ -18,7 +18,7 @@
 
 <a href="https://www.upwork.com/freelancers/~0121e346d19424d387" target="_blank"><img width="40px" src="./img/icon/upwork.svg"></a>
 <a href="https://www.fiverr.com/sekhsoaibhaque"><img width="40px" src="./img/icon/fiverr.svg"></a>
-<a href="https://www.linkedin.com/in/soaib-haque-905221203"><img width="40px" src="./img/icon/likedin.svg"></a>
+<a href="https://www.linkedin.com/in/soaib-haque-905221203"><img width="40px" src="./img/icon/linkedin.svg"></a>
 
 <h2>Languages and Tools:</h2>
 
