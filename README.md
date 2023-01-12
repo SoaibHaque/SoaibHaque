@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/soaib-haque-905221203"><img width="40px" src="./img/icon/linkedin.svg"></a>
 
 <h2>Languages and Tools:</h2>
-<img align="right" width="40%" src="./img/coding.gif"></img>
+<img align="right" width="35%" src="./img/coding.gif"></img>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"><img width="40px" src="./img/icon/html.svg"></a>&nbsp
 <a href="https://www.w3schools.com/css/"><img width="40px" src="./img/icon/css.svg"></a>&nbsp
