@@ -2,8 +2,6 @@
 <h1 align="center">Hello 👋, I'm Soaib Haque</h1>
 <h3 align="center">A JavaScript developer, A Chrome Extension developer and an Indian</h3>
 <br>
-<br>
-<br>
 
 <img align="right" width="40%" src="./img/coding.gif"></img>
 
@@ -18,8 +16,8 @@
 
 <h2>Connect with me:</h2>
 
-<a href="https://www.upwork.com/freelancers/~0121e346d19424d387" target="_blank"><img width="64px" src="./img/icon/upwork.svg"></a>
-<img width="64px" src="./img/icon/fiverr.svg">
+<a href="https://www.upwork.com/freelancers/~0121e346d19424d387" target="_blank"><img width="32px" src="./img/icon/upwork.svg"></a>
+<img width="32px" src="./img/icon/fiverr.svg">
 
 <h2>Languages and Tools:</h2>
 
