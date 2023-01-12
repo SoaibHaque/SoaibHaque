@@ -1,6 +1,7 @@
 [![MasterHead](./img/banner.gif)](https://github.com/SoaibHaque)
 <h1 align="center">Hello 👋, I'm Soaib Haque</h1>
 <h3 align="center">A JavaScript developer, A Chrome Extension developer and an Indian</h3>
+
 <a href="https://app.daily.dev/soaibhaque"><img align="right" width="25%" src="https://api.daily.dev/devcards/c3786868db4349c0b53d0141b8409c24.png?r=4bl" alt="Sekh Soaib Haque's Dev Card"/></a>
 
 - 🌱 I’m currently learning **C# .NET**
