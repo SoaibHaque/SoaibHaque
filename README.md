@@ -1,4 +1,4 @@
-![MasterHead](./img/banner.gif)
+[![MasterHead](./img/banner.gif)](https://github.com/SoaibHaque)
 <h1 align="center">Hello 👋, I'm Soaib Haque</h1>
 <h3 align="center">A JavaScript developer, A Chrome Extension developer and an Indian</h3>
 <br>
