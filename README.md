@@ -16,8 +16,8 @@
 
 <h2>Connect with me:</h2>
 
-<a href="https://www.upwork.com/freelancers/~0121e346d19424d387" target="_blank"><img width="32px" src="./img/icon/upwork.svg"></a>
-<img width="32px" src="./img/icon/fiverr.svg">
+<a href="https://www.upwork.com/freelancers/~0121e346d19424d387" target="_blank"><img width="40px" src="./img/icon/upwork.svg"></a>
+<img width="40px" src="./img/icon/fiverr.svg">
 
 <h2>Languages and Tools:</h2>
 
