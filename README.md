@@ -5,9 +5,9 @@
 
 <a href="https://app.daily.dev/soaibhaque"><img align="right" width="25%" src="https://api.daily.dev/devcards/c3786868db4349c0b53d0141b8409c24.png?r=4bl" alt="Sekh Soaib Haque's Dev Card"/></a>
 
-- 🌱 I’m currently learning **C# .NET**
+- 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **JavaScript , Chrome Extension**
+- 💬 Ask me about **JavaScript , Chrome Extension, ReactJS, TailwindCSS**
 
 - 📫 How to reach me **soaibhaque3@gmail.com**
 
